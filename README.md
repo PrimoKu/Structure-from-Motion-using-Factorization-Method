@@ -1,1 +1,1 @@
-# Structure-from-Motion-using-Factorization-Method
+# Structure from Motion (SfM) using Factorization Method
